@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @dankaprogg
 - 👀 I’m interested in API Development, Computer vision & Data Science
+- 📚 Developed several libraries for Python: [My PyPI](https://pypi.org/user/dankaprog/)
 - 📫 How to reach me: Telegram @ktspn, Email: dankaprog@gmail.com
